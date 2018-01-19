@@ -1,0 +1,6 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ThirdDigit\obj\Debug\ThirdDigit.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ThirdDigit\obj\Debug\ThirdDigit.csprojResolveAssemblyReference.cache

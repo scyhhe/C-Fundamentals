@@ -1,0 +1,5 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\From1toN\bin\Debug\From1toN.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\From1toN\bin\Debug\From1toN.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\From1toN\bin\Debug\From1toN.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\From1toN\obj\Debug\From1toN.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\From1toN\obj\Debug\From1toN.pdb

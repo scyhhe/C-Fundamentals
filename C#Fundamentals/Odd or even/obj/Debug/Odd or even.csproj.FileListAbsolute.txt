@@ -1,0 +1,6 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Odd or even\bin\Debug\Odd or even.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Odd or even\bin\Debug\Odd or even.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Odd or even\bin\Debug\Odd or even.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Odd or even\obj\Debug\Odd or even.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Odd or even\obj\Debug\Odd or even.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Odd or even\obj\Debug\Odd or even.csprojResolveAssemblyReference.cache

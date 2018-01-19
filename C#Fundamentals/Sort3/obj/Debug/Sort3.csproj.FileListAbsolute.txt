@@ -1,0 +1,6 @@
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\Sort3\bin\Debug\Sort3.exe.config
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\Sort3\bin\Debug\Sort3.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\Sort3\bin\Debug\Sort3.pdb
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\Sort3\obj\Debug\Sort3.csprojResolveAssemblyReference.cache
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\Sort3\obj\Debug\Sort3.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\Sort3\obj\Debug\Sort3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SumOfN\bin\Debug\SumOfN.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SumOfN\obj\Debug\SumOfN.csprojResolveAssemblyReference.cache
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SumOfN\bin\Debug\SumOfN.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SumOfN\bin\Debug\SumOfN.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SumOfN\obj\Debug\SumOfN.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SumOfN\obj\Debug\SumOfN.pdb

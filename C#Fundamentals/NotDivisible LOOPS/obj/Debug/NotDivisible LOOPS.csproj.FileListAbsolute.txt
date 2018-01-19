@@ -1,0 +1,5 @@
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\NotDivisible LOOPS\bin\Debug\NotDivisible LOOPS.exe.config
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\NotDivisible LOOPS\bin\Debug\NotDivisible LOOPS.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\NotDivisible LOOPS\bin\Debug\NotDivisible LOOPS.pdb
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\NotDivisible LOOPS\obj\Debug\NotDivisible LOOPS.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\NotDivisible LOOPS\obj\Debug\NotDivisible LOOPS.pdb

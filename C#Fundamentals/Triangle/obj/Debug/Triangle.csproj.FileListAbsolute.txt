@@ -1,0 +1,5 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Triangle\bin\Debug\Triangle.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Triangle\obj\Debug\Triangle.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Triangle\obj\Debug\Triangle.pdb

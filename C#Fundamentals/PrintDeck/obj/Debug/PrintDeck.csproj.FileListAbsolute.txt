@@ -1,0 +1,6 @@
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\PrintDeck\bin\Debug\PrintDeck.exe.config
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\PrintDeck\bin\Debug\PrintDeck.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\PrintDeck\bin\Debug\PrintDeck.pdb
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\PrintDeck\obj\Debug\PrintDeck.csprojResolveAssemblyReference.cache
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\PrintDeck\obj\Debug\PrintDeck.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\PrintDeck\obj\Debug\PrintDeck.pdb

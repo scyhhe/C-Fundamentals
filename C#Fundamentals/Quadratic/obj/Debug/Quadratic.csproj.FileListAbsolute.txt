@@ -1,0 +1,6 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Quadratic\bin\Debug\Quadratic.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Quadratic\bin\Debug\Quadratic.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Quadratic\bin\Debug\Quadratic.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Quadratic\obj\Debug\Quadratic.csprojResolveAssemblyReference.cache
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Quadratic\obj\Debug\Quadratic.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Quadratic\obj\Debug\Quadratic.pdb

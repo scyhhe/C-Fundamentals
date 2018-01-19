@@ -1,0 +1,5 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NthBit\bin\Debug\NthBit.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NthBit\bin\Debug\NthBit.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NthBit\bin\Debug\NthBit.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NthBit\obj\Debug\NthBit.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\NthBit\obj\Debug\NthBit.pdb

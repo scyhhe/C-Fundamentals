@@ -1,0 +1,6 @@
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\From1toN LOOPS\bin\Debug\From1toN LOOPS.exe.config
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\From1toN LOOPS\bin\Debug\From1toN LOOPS.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\From1toN LOOPS\bin\Debug\From1toN LOOPS.pdb
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\From1toN LOOPS\obj\Debug\From1toN LOOPS.csprojResolveAssemblyReference.cache
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\From1toN LOOPS\obj\Debug\From1toN LOOPS.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\From1toN LOOPS\obj\Debug\From1toN LOOPS.pdb

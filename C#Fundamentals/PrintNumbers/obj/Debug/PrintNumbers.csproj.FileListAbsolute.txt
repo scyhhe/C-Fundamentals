@@ -1,0 +1,6 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Circle\bin\Debug\Circle.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Circle\bin\Debug\Circle.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Circle\bin\Debug\Circle.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Circle\obj\Debug\Circle.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Circle\obj\Debug\Circle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\QuotesInStrings\obj\Debug\QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

@@ -1,0 +1,5 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SquareRoot\obj\Debug\SquareRoot.pdb

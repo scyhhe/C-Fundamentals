@@ -1,0 +1,6 @@
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe.config
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\ExchangeNumbers\bin\Debug\ExchangeNumbers.pdb
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\ExchangeNumbers\obj\Debug\ExchangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\ExchangeNumbers\obj\Debug\ExchangeNumbers.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\ExchangeNumbers\obj\Debug\ExchangeNumbers.pdb

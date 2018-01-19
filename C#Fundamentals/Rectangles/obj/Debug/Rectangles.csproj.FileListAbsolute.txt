@@ -1,0 +1,5 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Rectangles\obj\Debug\Rectangles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\CalcAGAIN\bin\Debug\CalcAGAIN.exe.config
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\CalcAGAIN\obj\Debug\CalcAGAIN.csprojResolveAssemblyReference.cache
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\CalcAGAIN\bin\Debug\CalcAGAIN.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\CalcAGAIN\bin\Debug\CalcAGAIN.pdb
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\CalcAGAIN\obj\Debug\CalcAGAIN.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\CalcAGAIN\obj\Debug\CalcAGAIN.pdb

@@ -1,0 +1,5 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\PrintSequence\obj\Debug\PrintSequence.pdb

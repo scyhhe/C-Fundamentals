@@ -1,0 +1,5 @@
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\MMSA\bin\Debug\MMSA.exe.config
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\MMSA\bin\Debug\MMSA.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\MMSA\bin\Debug\MMSA.pdb
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\MMSA\obj\Debug\MMSA.exe
+C:\Users\Fury\documents\visual studio 2015\Projects\ConsoleApplication1\MMSA\obj\Debug\MMSA.pdb

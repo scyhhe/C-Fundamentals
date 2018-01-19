@@ -1,0 +1,5 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FourDigits\bin\Debug\FourDigits.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FourDigits\bin\Debug\FourDigits.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FourDigits\bin\Debug\FourDigits.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FourDigits\obj\Debug\FourDigits.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\FourDigits\obj\Debug\FourDigits.pdb

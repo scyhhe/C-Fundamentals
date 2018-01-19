@@ -1,0 +1,6 @@
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WeightMoon\bin\Debug\WeightMoon.exe.config
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WeightMoon\bin\Debug\WeightMoon.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WeightMoon\bin\Debug\WeightMoon.pdb
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WeightMoon\obj\Debug\WeightMoon.csprojResolveAssemblyReference.cache
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WeightMoon\obj\Debug\WeightMoon.exe
+C:\Users\Fury\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WeightMoon\obj\Debug\WeightMoon.pdb
