@@ -1,5 +1,5 @@
 # C-Fundamentals
-To be added
 
+All assignments in C# Fundamentals class @ Telerik Academy
 
-**TEST BROTHER**
+Refer to <task>/program.cs for code
